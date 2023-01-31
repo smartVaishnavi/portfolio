@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,300;0,900;1,400;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Raleway:ital,wght@0,100;0,300;0,900;1,400;1,800;1,900&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  nav{
+    font-family: 'cursive'Great Vibes;
+  
+  }
+  h2{font-family: 'cursive',Great Vibes;
+  }
+}
